@@ -1,3 +1,4 @@
+
 1. Einleitung:
 
 Die heutigen Terahertz-Technologien versprechen ein rasches Wachstum in den neuen Märkten wie Medizin- und Sicherheitstechnik, zerstörungsfreie Prüfung, Qualitätskontrolle und Gesundheitsvorsorge. Jedoch ist die Geschwindigkeit, mit der neue Märkte entstehen noch langsam, weil verfügbare Technologien hohen Kosten und eine niedrige Ebene der Integration aufweisen, die ihren Masseneinsatz wesentlich einschränken.
@@ -37,7 +38,7 @@ Unser Ziel war es, das Bild von 32x24 Pixeln auf 135x240 Pixel zu vergrößern. 
 - Bilineare Interpolation.
 - Bicubische Interpolation.
 - Nearest-Neighbour-Interpolation.
-- Isolierte Interpolationsmethode aus dem Original-Quellcode der T-LITE M5StickC Plus.
+- Isolierte Interpolationsmethode aus dem Original-Quellcode der T-LITE M5StickC Plus. aus ("https://github.com/m5stack/M5StickC-Plus-TLite-FW/blob/main/src/main.cpp")
 
 
 4.	Implementierung von Interpolationsalgorithmen:
@@ -94,7 +95,7 @@ Die Unterschiede in der Leistung lassen sich vor allem auf hardwaretechnische Fa
 
 Insgesamt konnte durch dieses Projekt gezeigt werden, wie wichtig die Hardwarekonfiguration für die Performance von Bildverarbeitungsalgorithmen ist. Die Ergebnisse liefern wertvolle Erkenntnisse für die weitere Optimierung von Bildverarbeitungsprozessen auf Embedded-Systemen, insbesondere im Hinblick auf Echtzeit-Anwendungen wie die Thz-Video Camera.
 
-
+Für den vollständigen Bericht, finden Sie ihn unter folgendem Link : https://github.com/saifel96/THzVideoCameraInterpolation-M5Core2/blob/master/TeamPraktikum%20-%20Eingebettete%20Bildinterpolation%20von%20THz%20Video-kamera.pdf
 
 
 
